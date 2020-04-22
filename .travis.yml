@@ -3,10 +3,10 @@
 language: julia
 sudo: required
 os:
-  - linux
+  #- linux
   - osx
 julia:
-  - 1.4
+  - 1.3
 
 notifications:
   email: false
